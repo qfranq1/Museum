@@ -229,12 +229,12 @@ body {
 .welcome__slider .slick-arrow.slick-prev{
     left: 85%;
     top: 99%;
-    background: url(../museum/assets/img/←.svg) 0 0 / 100% no-repeat;
+    background: url(./assets/img/←.svg) 0 0 / 100% no-repeat;
 }
 .welcome__slider .slick-arrow.slick-next {
     right:75px;
     top: 99%;
-    background: url(../museum/assets/img/←\ right.svg) 0 0 / 100% no-repeat;
+    background: url(./assets/img/←\ right.svg) 0 0 / 100% no-repeat;
 }
 .welcome__slider .slick-dots {
     position: absolute;
@@ -534,13 +534,13 @@ body {
 .journey__slider .slick-arrow.slick-prev{
     left: 44%;
     top: 114%;
-    background: url(../museum/assets/img/left\ journey.svg) 0 0 / 100% no-repeat;
+    background: url(./assets/img/left\ journey.svg) 0 0 / 100% no-repeat;
     z-index: 1;
 }
 .journey__slider .slick-arrow.slick-next {
     right: 43%;
     top: 114%;
-    background: url(../museum/assets/img/right\ journey.svg) 0 0 / 100% no-repeat;
+    background: url(./assets/img/right\ journey.svg) 0 0 / 100% no-repeat;
     z-index: 1;
 }
 
@@ -719,7 +719,7 @@ input[type="number"]::-webkit-inner-spin-button {
 .parallax {
     width: 100%;
     height: 400px;
-    background-image: url(../museum/assets/img/parallax.jpg);
+    background-image: url(./assets/img/parallax.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
@@ -954,7 +954,7 @@ footer::after {
     display: block;
     width: 17px;
     height: 17px;
-    background: url(../museum/assets/img/arrow.png) no-repeat ;
+    background: url(./assets/img/arrow.png) no-repeat ;
     right: 4%;
     top: 45%;
     position: absolute;
@@ -1092,7 +1092,7 @@ input::-webkit-calendar-picker-indicator {
     position: absolute;
     top: 13%;
     right: 105%;
-    background: url(../museum/assets/img/date.png) no-repeat;
+    background: url(./assets/img/date.png) no-repeat;
 }
 .column2__list li:nth-child(2)::after {
     content: '';
@@ -1102,7 +1102,7 @@ input::-webkit-calendar-picker-indicator {
     position: absolute;
     top: 13%;
     right: 105%;
-    background: url(../museum/assets/img/time.png) no-repeat;
+    background: url(./assets/img/time.png) no-repeat;
 }
 .column2__list li:nth-child(3)::after {
     content: '';
@@ -1112,7 +1112,7 @@ input::-webkit-calendar-picker-indicator {
     position: absolute;
     top: 13%;
     right: 105%;
-    background: url(../museum/assets/img/check_circle_outline.png) no-repeat;
+    background: url(./assets/img/check_circle_outline.png) no-repeat;
 }
 .ticket__price {
     padding: 0px 30px 30px 30px;
@@ -2022,7 +2022,7 @@ input::-webkit-calendar-picker-indicator {
     .parallax {
         width: 100%;
         height: 300px;
-        background-image: url(../museum/assets/img/parallax.jpg);
+        background-image: url(./assets/img/parallax.jpg);
         background-attachment: fixed;
         background-size: cover;
     }
